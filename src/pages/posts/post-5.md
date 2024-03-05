@@ -6,7 +6,7 @@ description: "Esta entrada aparecerá sola!"
 image:
   url: "https://docs.astro.build/default-og-image.png"
   alt: "La palabra 'astro' contra una ilustración de planetas y estrellas."
-pubDate: 2022-08-08
+pubDate: 2024-03-05
 tags: ["astro", "spiderman", ":V"]
 ---
 Quinta entrada al blog con rss
